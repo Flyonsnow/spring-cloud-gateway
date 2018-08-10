@@ -13,7 +13,8 @@
 include::intro.adoc[]
 
 [[gateway-starter]]
-== How to Include Spring Cloud Gateway
+== 如何引入Spring Cloud Gateway
+//== How to Include Spring Cloud Gateway
 
 To include Spring Cloud Gateway in your project use the starter with group `org.springframework.cloud`
 and artifact id `spring-cloud-starter-gateway`. See the http://projects.spring.io/spring-cloud/[Spring Cloud Project page]
